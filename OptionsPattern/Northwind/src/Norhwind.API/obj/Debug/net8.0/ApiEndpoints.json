@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Norhwind.API.Controllers.ValuesController",
+    "Method": "GetDatabaseOptions",
+    "RelativePath": "api/Values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

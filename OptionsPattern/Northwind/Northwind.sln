@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34929.205
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2FD01065-5A0C-4B47-B743-E19422FB47EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norhwind.API", "src\Norhwind.API\Norhwind.API.csproj", "{B0DF14A3-BB54-4F29-8021-88D7F2B60BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0DF14A3-BB54-4F29-8021-88D7F2B60BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DF14A3-BB54-4F29-8021-88D7F2B60BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DF14A3-BB54-4F29-8021-88D7F2B60BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DF14A3-BB54-4F29-8021-88D7F2B60BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0DF14A3-BB54-4F29-8021-88D7F2B60BF0} = {2FD01065-5A0C-4B47-B743-E19422FB47EC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118F1F9B-67D1-47D8-8011-2967018D67A0}
+	EndGlobalSection
+EndGlobal
